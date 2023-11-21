@@ -1,0 +1,4 @@
+First commit after initial commit.
+Hello World
+I am modifiying it after adding it to staging area.
+Adding some content to show how to skip staging area.
